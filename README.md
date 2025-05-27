@@ -19,6 +19,12 @@ This project demonstrates the following **React** features:
 - **Basic Form Handling**
 - **Basic Styling** (external CSS)
 
+- **Controlled Components**
+- **Derived State** (`Computed Filtering & Search`)
+- **Side Effects** (`useEffect`)
+- **Local Storage Persistence**
+- **Custom Hooks** (`useLocalStorage`)
+
 ---
 
 ## 🧩 Wireframe (Text-Based)
