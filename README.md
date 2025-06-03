@@ -25,6 +25,10 @@ This project demonstrates the following **React** features:
 - **Local Storage Persistence**
 - **Custom Hooks** (`useLocalStorage`)
 
+- **React Router**
+- **Context API**
+- **Async Data Fetching** (`with fetch/axios`)
+
 ---
 
 ## 🧩 Wireframe (Text-Based)
@@ -66,6 +70,9 @@ npm run dev
 task-manager/
 ├── public/
 ├── src/
+│   ├── Pages/
+│   │   ├── Home.jsx    // Task Manager Home Page
+│   │   └── About.jsx   // A static Page
 │   ├── components/
 │   │   ├── TaskForm.jsx
 │   │   └── TaskList.jsx
